@@ -1,5 +1,6 @@
 > # **Instagram Phishing Page**
 >![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)<br>
+**Note : Don't forgot I don't give a fuck what you do with my code, I am obviously not responsable of shit you do ok ? 😉**<br>
 **<ins>Usage :</ins>**<br>
 **- My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook.**
 ![webhook](https://user-images.githubusercontent.com/81310818/123550149-869fee00-d76c-11eb-9938-34a444eb00e1.PNG)<br>
